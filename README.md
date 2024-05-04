@@ -33,4 +33,10 @@ module.exports = {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+    .heading {
+        @apply text-center text-white text-[28px] sm:text-[33px] md:text-[45px] font-bold uppercase
+    }
+}
 ````
