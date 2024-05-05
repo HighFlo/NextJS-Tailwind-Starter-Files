@@ -7,7 +7,7 @@ npm install -D tailwindcss
 npx tailwindcss init
 ```
 
-#### tailwind.config.js & tailwind.config.ts
+#### tailwind.config.js
 
 ```
 /** @type {import('tailwindcss').Config} */
