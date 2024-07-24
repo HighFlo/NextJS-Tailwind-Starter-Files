@@ -27,7 +27,7 @@ module.exports = {
 }
 ```
 
-#### src/input.css
+#### src/index.css
 
 ````
 @tailwind base;
